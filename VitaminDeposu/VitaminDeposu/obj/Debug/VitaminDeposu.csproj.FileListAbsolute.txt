@@ -1,0 +1,10 @@
+C:\Users\İSMAİL\Source\Repos\VitaminDeposu\VitaminDeposu\bin\Debug\VitaminDeposu.exe.config
+C:\Users\İSMAİL\Source\Repos\VitaminDeposu\VitaminDeposu\bin\Debug\VitaminDeposu.exe
+C:\Users\İSMAİL\Source\Repos\VitaminDeposu\VitaminDeposu\bin\Debug\VitaminDeposu.pdb
+C:\Users\İSMAİL\Source\Repos\VitaminDeposu\VitaminDeposu\obj\Debug\VitaminDeposu.csprojAssemblyReference.cache
+C:\Users\İSMAİL\Source\Repos\VitaminDeposu\VitaminDeposu\obj\Debug\VitaminDeposu.Form1.resources
+C:\Users\İSMAİL\Source\Repos\VitaminDeposu\VitaminDeposu\obj\Debug\VitaminDeposu.Properties.Resources.resources
+C:\Users\İSMAİL\Source\Repos\VitaminDeposu\VitaminDeposu\obj\Debug\VitaminDeposu.csproj.GenerateResource.cache
+C:\Users\İSMAİL\Source\Repos\VitaminDeposu\VitaminDeposu\obj\Debug\VitaminDeposu.csproj.CoreCompileInputs.cache
+C:\Users\İSMAİL\Source\Repos\VitaminDeposu\VitaminDeposu\obj\Debug\VitaminDeposu.exe
+C:\Users\İSMAİL\Source\Repos\VitaminDeposu\VitaminDeposu\obj\Debug\VitaminDeposu.pdb
